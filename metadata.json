@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor & Voiceover Portfolio",
+  "description": "Ultra-premium macOS dark glass portfolio for a high-end video editor, motion graphics designer, and voiceover artist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
